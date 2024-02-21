@@ -1,4 +1,6 @@
-# Simple Meme Generator using React
+# Simple React* Meme Generator
+
+*using create-react-app
 
 ## Introduction
 This project is a straightforward meme generator created with React.  
